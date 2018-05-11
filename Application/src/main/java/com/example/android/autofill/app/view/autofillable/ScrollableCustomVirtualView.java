@@ -35,6 +35,8 @@ public class ScrollableCustomVirtualView extends CustomVirtualView
     public ScrollableCustomVirtualView(Context context) {
         this(context, null);
     }
+    
+
 
     public ScrollableCustomVirtualView(Context context, AttributeSet attrs) {
         this(context, attrs, 0);
